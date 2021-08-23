@@ -10,4 +10,5 @@ def int_to_key(num):
 
 import shortuuid
 
-print(shortuuid.uuid(name="5", length=16))
+print(shortuuid.uuid(name="imran"))
+#  oZ9iAMEJEkc8fbsCKda7Uw
